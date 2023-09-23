@@ -94,15 +94,15 @@ int main()
   // Report settings to users
   cout << "\nPASSWORD SETTINGS\n";
   cout << "Length: " << length;
-  cout << "\nUppercase: " << boolToString(includeUpperCase);
-  cout << "\nLowercase: " << boolToString(includeLowerCase);
-  cout << "\nNumbers: " << boolToString(includeNumbers);
-  cout << "\nSymbols " << boolToString(includeSymbols);
+  cout << "\nUppercase: " << boolToString(includeUpper);
+  cout << "\nLowercase: " << boolToString(includeLower);
+  cout << "\nNumbers: " << boolToString(includeNumber);
+  cout << "\nSymbols " << boolToString(includeSpecial);
 
   cout << "\n\n--- GENERATED PASSWORD ---\n";
 
-  string password = generatePassword(includeUpperCase, includeLowerCase,
-                                     includeNumbers, includeSymbols, length);
+  string password = generatePassword(includeUpper, includeLower,
+                                     includeNumber, includeSpecial, length);
 
   cout << password;
 
