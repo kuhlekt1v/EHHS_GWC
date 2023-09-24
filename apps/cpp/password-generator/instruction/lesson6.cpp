@@ -1,8 +1,8 @@
 // ###############################################################
-// - Girls Who Code					                                     #
-// - Password Generator         	                               #
+// - Girls Who Code                                              #
+// - Password Generator                                          #
 // - Lesson - 6 | Add a class "Generate" for all character       #
-//                generator methods    		                       #
+//                generator methods                              #
 // ###############################################################
 
 // 1. Create a new file "Generate.h"
