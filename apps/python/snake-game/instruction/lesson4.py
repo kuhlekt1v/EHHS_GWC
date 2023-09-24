@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Snake Game Tutorial					                       #
-# - Lesson - 4 | Adding the Snake class        		           #
+# - Girls Who Code                                             #
+# - Snake Game Tutorial                                        #
+# - Lesson - 4 | Adding the Snake class                        #
 ################################################################
 
 
