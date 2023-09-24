@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Tkinter GUI Number Guesser				                   #
-# - Lesson - 2 | Create the TKinter GUI		                   #
+# - Girls Who Code                                             #
+# - Tkinter GUI Number Guesser                                 #
+# - Lesson - 2 | Create the TKinter GUI                        #
 ################################################################
 
 import tkinter as tk
