@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Snake Game Tutorial					                       #
-# - Lesson - 5 | Begin next turn & check collisions   	       #
+# - Girls Who Code                                             #
+# - Snake Game Tutorial                                        #
+# - Lesson - 5 | Begin next turn & check collisions            #
 ################################################################
 
 
