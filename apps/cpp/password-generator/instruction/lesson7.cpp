@@ -1,6 +1,6 @@
 // ###############################################################
-// - Girls Who Code					                                     #
-// - Password Generator         	                               #
+// - Girls Who Code                                              #
+// - Password Generator                                          #
 // - Lesson - 7 | Add a function to create the randomized        #
 //                password based on user input and finish        #
 //                main program                                   #
