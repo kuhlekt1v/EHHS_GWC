@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Word Search Tutorial					                   #
-# - Lesson - 4 | Limit number of guesses        		       #
+# - Girls Who Code                                             #
+# - Word Search Tutorial                                       #
+# - Lesson - 4 | Limit number of guesses                       #
 ################################################################
 
 import random
