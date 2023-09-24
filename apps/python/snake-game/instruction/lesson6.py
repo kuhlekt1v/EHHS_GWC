@@ -1,8 +1,8 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Snake Game Tutorial					                       #
+# - Girls Who Code                                             #
+# - Snake Game Tutorial                                        #
 # - Lesson - 6 | Game over, complete next turn, change         #
-#		         direction. Game complete!   	               #
+#		         direction. Game complete!                     #
 ################################################################
 
 ### Display game over message to students first.
