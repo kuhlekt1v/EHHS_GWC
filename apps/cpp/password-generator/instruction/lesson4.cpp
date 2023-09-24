@@ -1,7 +1,7 @@
 // ###############################################################
-// - Girls Who Code					                                     #
-// - Password Generator         	                               #
-// - Lesson - 4 | Yes/No user option decisions            		   #
+// - Girls Who Code                                              #
+// - Password Generator                                          #
+// - Lesson - 4 | Yes/No user option decisions                   #
 // ###############################################################
 
 // 1. Define public member getYesNoInput
