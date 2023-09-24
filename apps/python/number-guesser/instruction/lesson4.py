@@ -1,6 +1,6 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Tkinter GUI Number Guesser				                   #
+# - Girls Who Code                                             #
+# - Tkinter GUI Number Guesser                                 #
 # - Lesson - 4 | Include logic in styled GUI                   #
 ################################################################
 
