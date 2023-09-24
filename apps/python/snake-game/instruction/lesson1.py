@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Snake Game Tutorial					                       #
-# - Lesson - 1 | Initial setup 				                   #
+# - Girls Who Code                                             #
+# - Snake Game Tutorial                                        #
+# - Lesson - 1 | Initial setup                                 #
 ################################################################
 
 from Tkinter import *
