@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Word Search Tutorial					                   #
-# - Lesson - 3 | Guess a word         		                   #
+# - Girls Who Code                                             #
+# - Word Search Tutorial                                       #
+# - Lesson - 3 | Guess a word                                  #
 ################################################################
 
 import random
