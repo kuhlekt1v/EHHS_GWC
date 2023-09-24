@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Word Search Tutorial					                   #
-# - Lesson - 1 | Use an API to generate a random word		   #
+# - Girls Who Code                                             #
+# - Word Search Tutorial                                       #
+# - Lesson - 1 | Use an API to generate a random word          #
 ################################################################
 
 # There are two options for getting the list of random words
