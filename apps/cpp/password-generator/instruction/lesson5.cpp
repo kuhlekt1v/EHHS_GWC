@@ -1,6 +1,6 @@
 // ###############################################################
-// - Girls Who Code					                                     #
-// - Password Generator         	                               #
+// - Girls Who Code                                              #
+// - Password Generator                                          #
 // - Lesson - 5 | Add a function to restart the generator.       #
 // ###############################################################
 
