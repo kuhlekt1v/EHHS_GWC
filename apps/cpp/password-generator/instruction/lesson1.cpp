@@ -1,7 +1,7 @@
 // ###############################################################
-// - Girls Who Code					                                     #
-// - Password Generator         	                               #
-// - Lesson - 1 | Intro to C++ & capturing user input     		   #
+// - Girls Who Code                                              #
+// - Password Generator                                          #
+// - Lesson - 1 | Intro to C++ & capturing user input            #
 // ###############################################################
 
 // Instructors: Comment out code blocks between START COMMENT # &
