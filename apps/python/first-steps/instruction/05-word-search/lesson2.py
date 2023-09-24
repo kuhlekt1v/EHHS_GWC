@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                                   #
-# - Word Search Tutorial					                             #
-# - Lesson - 2 | Get random item from list          		       #
+# - Girls Who Code                                             #
+# - Word Search Tutorial                                       #
+# - Lesson - 2 | Get random item from list                     #
 ################################################################
 
 import random
