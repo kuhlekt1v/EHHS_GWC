@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Tkinter GUI Number Guesser				                   #
-# - Lesson - 1 | Develop game logic in a console app		   #
+# - Girls Who Code                                             #
+# - Tkinter GUI Number Guesser                                 #
+# - Lesson - 1 | Develop game logic in a console app           #
 ################################################################
 
 
