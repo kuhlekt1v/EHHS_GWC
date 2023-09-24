@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #
-# - Snake Game Tutorial					                       #
-# - Lesson - 3 | Adding the Food class        		           #
+# - Girls Who Code                                             #
+# - Snake Game Tutorial                                        #
+# - Lesson - 3 | Adding the Food class                         #
 # - NOTE: IF NECESSARY TEACH OOP FIRST FROM                    # 
 #         samples/OOP_intro.py                                 #
 ################################################################
