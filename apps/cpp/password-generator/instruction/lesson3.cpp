@@ -1,6 +1,6 @@
 // ###############################################################
-// - Girls Who Code					                                     #
-// - Password Generator         	                               #
+// - Girls Who Code                                              #
+// - Password Generator                                          #
 // - Lesson - 3 |  Move passwordLength function to own class     #
 // ###############################################################
 
