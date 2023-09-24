@@ -1,7 +1,7 @@
 ################################################################
-# - Girls Who Code					                           #    
-# - Snake Game Tutorial					                       #
-# - Lesson - 2 | Displaying the game board.		               #
+# - Girls Who Code                                             #    
+# - Snake Game Tutorial                                        #
+# - Lesson - 2 | Displaying the game board.                    #
 ################################################################
 
 from Tkinter import *
