@@ -1,26 +1,11 @@
 import sys
 import random
-
-# import msvcrt
-import getch
-from getpass import getpass
+import termios
+import tty
 from datetime import timedelta, datetime
-from Game import board, mole, empty, render, map
+from Game import board, mole, empty, render, map, get_input
 
-PLAY_TIME = 10
-
-
-def get_input():
-    while True:
-        # key = msvcrt.getch()
-        key = getch.getch()
-
-        if key.isdigit() and 1 <= int(key) <= 9:
-            return int(key)
-        elif key == "\x1b":  # esc key
-            print("\033c")
-            print("Whack A Mole was closed...")
-            sys.exit(0)
+PLAY_TIME = 3
 
 
 def Play():
@@ -31,7 +16,7 @@ def Play():
     sys.stdout.write("\033[?25l")
 
     # Display title & empty board.
-    print("Whack A Mole")
+    print("Whack-A-Mole")
     print()
     print(board)
 
@@ -47,7 +32,6 @@ def Play():
         left, top = map(mole_location)
         render(mole, left, top)
 
-        # guess = msvcrt.getch()
         selection = get_input()
 
         if mole_location == selection:
